@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment files
+.env
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# MyPy / type checking
+.mypy_cache/
+
+# Database (if SQLite for local use)
+*.sqlite3
+*.db
+
+# Static/media (if generated)
+media/
+staticfiles/
