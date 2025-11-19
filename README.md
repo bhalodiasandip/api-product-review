@@ -1,10 +1,15 @@
-# api-product-review
-[requirements]
+# [requirements]
+
 fastapi
+
 uvicorn[standard]
+
 SQLAlchemy
+
 psycopg2-binary
+
 pydantic
+
 python-dotenv
 
 ## Database Setup (PostgreSQL)
